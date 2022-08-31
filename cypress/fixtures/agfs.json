@@ -1,0 +1,24 @@
+[
+    {
+        "fee_scheme": "7",
+        "scenario": "2",
+        "advocate_type":"JUNIOR",
+        "offence_class": "6.1",
+        "fee_type_code": "AGFS_FEE",
+        "number_of_day": "1",
+        "number_of_cases": "1",
+        "number_of_defendants": "1",
+        "expected_value": "£ 4882.0"
+    },
+    {
+        "fee_scheme": "7",
+        "scenario": "4",
+        "advocate_type":"JUNIOR",
+        "offence_class": "6.1",
+        "fee_type_code": "AGFS_FEE",
+        "number_of_day": "10",
+        "number_of_cases": "1",
+        "number_of_defendants": "1",
+        "expected_value": "£ 15248.0"
+    }
+]

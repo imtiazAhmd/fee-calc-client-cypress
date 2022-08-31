@@ -1,0 +1,22 @@
+[
+    {
+        "fee_scheme": "6",
+        "scenario": "2",
+        "offence_class": "A",
+        "fee_type_code": "LIT_FEE",
+        "number_of_day": "1",
+        "number_of_defendants": "1",
+        "ppe": "70",
+        "expected_value": "£ 782.45"
+    }, {
+        "fee_scheme": "6",
+        "scenario": "2",
+        "offence_class": "A",
+        "fee_type_code": "LIT_FEE",
+        "number_of_day": "1",
+        "number_of_defendants": "1",
+        "ppe": "180",
+        "expected_value": "£ 1344.45"
+    }
+
+]
